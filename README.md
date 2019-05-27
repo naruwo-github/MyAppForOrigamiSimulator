@@ -14,5 +14,13 @@ proposed application
 Inputs : Development of Origami(.png or .jpg)
 Outputs : Development of Origami with more crease information as SVG
 <img src="./forDrawApp/exDevelopmentOrigami/simpleCurve.png">
+
+Development of Origami with simple curved crease.
+
 <img src="./forDrawApp/myUI.png">
+
+UI of my application with input.
+
 <img src="./forDrawApp/myUI2.png">
+
+Results
