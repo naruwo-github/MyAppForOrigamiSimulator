@@ -26,7 +26,7 @@ import javax.swing.JSlider;
 import javax.swing.event.ChangeEvent;
 import javax.swing.event.ChangeListener;
 
-
+//splineに変更したい
 
 
 public class AppM1 extends JFrame implements MouseListener, ActionListener, MouseMotionListener, ChangeListener{
