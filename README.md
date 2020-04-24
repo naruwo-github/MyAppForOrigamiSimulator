@@ -13,14 +13,14 @@ My application solve the problem.
 proposed application
 Inputs : Development of Origami(.png or .jpg)
 Outputs : Development of Origami with more crease information as SVG
-<img src="./forDrawApp/exDevelopmentOrigami/simpleCurve.png">
+<img src="./forDrawApp/exDevelopmentOrigami/simpleCurve.png" width="600px">
 
 Development of Origami with simple curved crease.
 
-<img src="./forDrawApp/myUI.png">
+<img src="./forDrawApp/myUI.png" width="600px">
 
 UI of my application with input.
 
-<img src="./forDrawApp/myUI2.png">
+<img src="./forDrawApp/myUI2.png" width="600px">
 
 Results
