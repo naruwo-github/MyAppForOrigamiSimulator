@@ -19,8 +19,8 @@ Development of Origami with simple curved crease.
 
 <img src="./forDrawApp/myUI.png" width="600px">
 
-UI of my application with input.
+UI of my application with input. By using many tools, we can add many optional creases on inputted development.
 
 <img src="./forDrawApp/myUI2.png" width="600px">
 
-Results
+If the modification is finished, please write out the development of result. So, we can get .svg file. The next step is openning Origami Simulator App and throwing .svg file. Then, we can get 3D model of the Origami(with your modification).
